@@ -1,8 +1,12 @@
 # About
 
-This is a plugin for the [reveal.js HTML presentation framework](https://github.com/hakimel/reveal.js).
+This is a [plugin](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware) for the [reveal.js HTML presentation framework](https://github.com/hakimel/reveal.js).
 
 It uses the JavaScript library [Type.js](https://github.com/mattboldt/typed.js/) to create a typewriter effect.
+
+# References
+- [Hakim El Hattab](https://hakim.se/)
+- [Matt Boltd](https://mattboldt.com/)
 
 # Installation
 
